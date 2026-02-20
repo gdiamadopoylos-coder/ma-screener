@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="MJ.PNG" width="320"/>
+  <img src="MJBANNER.jpg" width="420"/>
 </p>
 
-<h1 align="center">MERJURE™</h1>
+<h2 align="center">
+Intelligent M&A Targeting
+</h2>
 
 <p align="center">
 Explainable acquisition screening engine for corporate development and investment teams.
