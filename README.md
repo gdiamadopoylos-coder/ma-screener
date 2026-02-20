@@ -53,7 +53,7 @@ Weights are user-controlled (sum = 100), allowing dynamic re-ranking depending o
 ## Author
 
 Developed by Georgios Diamantopoulos  
-Rolls-Royce Defence Naval Lifecycle Engineer & Safety Lead | MSc Global Finance & Banking at King's College London 
-Focused on system-driven capital allocation and decision analytics.
+Rolls-Royce Defence UK | Naval Lifecycle Engineer & Safety Lead | MSc Global Finance & Banking at King's College London 
+
 
 
